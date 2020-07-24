@@ -6,7 +6,7 @@
 name: 清平不乐的网络博客
 
 # Short bio or description (displayed in the header)
-description: uinging's blog, recording thoughts on tech & life. 这里是清平不乐的博客, 记录对技术与生活的思考.
+description: uinging's blog, recording thoughts on tech & life. <br/>这里是清平不乐的博客, 记录对技术与生活的思考.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
